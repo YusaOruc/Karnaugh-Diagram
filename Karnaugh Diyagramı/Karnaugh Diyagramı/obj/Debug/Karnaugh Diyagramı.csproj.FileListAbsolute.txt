@@ -1,0 +1,10 @@
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\bin\Debug\Karnaugh Diyagramı.exe.config
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\bin\Debug\Karnaugh Diyagramı.exe
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\bin\Debug\Karnaugh Diyagramı.pdb
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh Diyagramı.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh_Diyagramı.Form1.resources
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh_Diyagramı.Properties.Resources.resources
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh Diyagramı.csproj.GenerateResource.cache
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh Diyagramı.csproj.CoreCompileInputs.cache
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh Diyagramı.exe
+C:\Users\YUŞA\source\repos\Karnaugh Diyagramı\Karnaugh Diyagramı\obj\Debug\Karnaugh Diyagramı.pdb
